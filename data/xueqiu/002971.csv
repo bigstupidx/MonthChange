@@ -1,0 +1,3 @@
+date,volume,open,high,low,close,ma5,ma10,ma20,ma30,pe,market_capital,chg,percent,turnoverrate,amount,volume_post,amount_post,timestamp
+20200113,154021,12.98,15.58,12.98,15.58,,,,,,2492800000.0,4.76,43.99,0.38,2398737.0,,,1578844800000
+20200114,38457,17.14,17.14,17.14,17.14,,,,,,2742400000.0,1.56,10.01,0.09,659152.0,,,1578931200000
